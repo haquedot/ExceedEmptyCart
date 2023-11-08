@@ -38,6 +38,20 @@ button:hover {
     color: #fff;
 }
 
+.outline-btn {
+    border: 1px solid #060c22;
+    background-color: transparent;
+    color: #000;
+    border-radius: 12px;
+    padding: 16px 64px;
+
+}
+
+.outline-btn:hover {
+    background-color: #060c22;
+    color: #fff;
+}
+
 .d-flex {
     justify-content: center;
     align-items: center;
